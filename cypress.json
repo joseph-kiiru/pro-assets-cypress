@@ -1,0 +1,5 @@
+{
+    "baseUrl": "http://pro-assets.dmwangi.co.ke",
+    "retries": 	{ "runMode": 0, "openMode": 0 },
+    "defaultCommandTimeout": 10000
+}
